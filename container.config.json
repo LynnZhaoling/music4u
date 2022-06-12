@@ -5,7 +5,7 @@
   "cpu": 1,
   "mem": 1,
   "policyType": "cpu",
-  "policyThreshold": 50,
+  "policyThreshold": 60,
   "envParams": {},
   "customLogs": "stdout",
   "dataBaseName":"music4u",
