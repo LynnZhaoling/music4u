@@ -6,8 +6,9 @@
 
     <groupId>org.example</groupId>
     <artifactId>music4u</artifactId>
-    <version>1.0</version>
     <packaging>jar</packaging>
+    <version>1.0</version>
+
 
     <parent>
         <groupId>org.springframework.boot</groupId>
