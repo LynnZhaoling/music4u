@@ -23,6 +23,11 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <!--springboot所有依赖都是spring-boot-starter开头的，这里可以不写版本号因为他可以继承父依赖-->
         </dependency>
+        <!-- -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
